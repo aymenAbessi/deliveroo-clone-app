@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "deliveroo",
+    "slug": "deliveroo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      
+      "package": "com.aymen2022.deliveroo",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDx3aLR7NM_SlQ159s5cvALUQn6wuEmKZ4"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "820bcb0d-c7a7-44a9-911f-ffbce3ccf282"
+      }
+    }
+  }
+}
