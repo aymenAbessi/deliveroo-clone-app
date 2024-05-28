@@ -30,7 +30,7 @@
       "package": "com.aymen2022.deliveroo",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyDx3aLR7NM_SlQ159s5cvALUQn6wuEmKZ4"
+          "apiKey": ""
         }
       }
     },
@@ -39,7 +39,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "820bcb0d-c7a7-44a9-911f-ffbce3ccf282"
+        "projectId": ""
       }
     }
   }
